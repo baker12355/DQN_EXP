@@ -12,7 +12,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import time
-import talib
+#import talib
 
 #from talib import abstract
 #from talib.abstract import *
