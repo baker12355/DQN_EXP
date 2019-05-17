@@ -14,8 +14,8 @@ import torch.nn.functional as F
 import time
 import talib
 
-from talib import abstract
-from talib.abstract import *
+#from talib import abstract
+#from talib.abstract import *
 # In[1]:
 
 
